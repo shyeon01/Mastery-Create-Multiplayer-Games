@@ -6,6 +6,7 @@
 #include "Camera/CameraComponent.h"
 #include "Components/CapsuleComponent.h"
 #include "Kismet/GameplayStatics.h"
+#include "Components/PawnNoiseEmitterComponent.h"
 
 
 AFPSCharacter::AFPSCharacter()
@@ -22,6 +23,8 @@ AFPSCharacter::AFPSCharacter()
 	Mesh1PComponent->CastShadow = false;
 	Mesh1PComponent->RelativeRotation = FRotator(2.0f, -15.0f, 5.0f);
 	Mesh1PComponent->RelativeLocation = FVector(0, 0, -160.0f);
+
+	NoiseEmitterComponent = CreateDefaultSubobject<UPawnNoiseEmitterComponent>(TEXT("NoiseEmitter"));
 
 	// Create a gun mesh component
 	GunMeshComponent = CreateDefaultSubobject<USkeletalMeshComponent>(TEXT("FP_Gun"));
