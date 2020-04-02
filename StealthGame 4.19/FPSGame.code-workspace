@@ -8,7 +8,6 @@
 		}
 	],
 	"settings": {
-		"typescript.tsc.autoDetect": "off",
-		"git.ignoreLimitWarning": true
+		"typescript.tsc.autoDetect": "off"
 	}
 }
