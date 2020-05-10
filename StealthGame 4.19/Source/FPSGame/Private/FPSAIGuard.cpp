@@ -18,6 +18,8 @@ AFPSAIGuard::AFPSAIGuard()
 	PawnSensingComp->OnHearNoise.AddDynamic(this, &AFPSAIGuard::OnNoiseHeard);
 
 	GuardState = EAIState::Idle;
+
+	// GitHub Destop client test
 }
 
 // Called when the game starts or when spawned
