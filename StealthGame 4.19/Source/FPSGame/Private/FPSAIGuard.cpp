@@ -18,8 +18,6 @@ AFPSAIGuard::AFPSAIGuard()
 	PawnSensingComp->OnHearNoise.AddDynamic(this, &AFPSAIGuard::OnNoiseHeard);
 
 	GuardState = EAIState::Idle;
-
-	// GitHub Destop client test
 }
 
 // Called when the game starts or when spawned
@@ -83,7 +81,7 @@ void AFPSAIGuard::OnNoiseHeard(APawn *NoiseInstigator, const FVector &Location, 
 	SetActorRotation(NewLookAt);
 
 	GetWorldTimerManager().ClearTimer(TimerHandle_ResetOrientation);
-	GetWorldTimerManager().SetTimer(TimerHandle_ResetOrientation, this, &AFPSAIGuard::ResetOrientation, 3.0f);
+	GetWorldTimerManager().SetTimer(TimerHandle_ResetOrientation, this, &AFPSAIGuard::ResetOrientation, 5.0f);
 
 	SetGuardState(EAIState::Suspicious);
 
