@@ -1,7 +1,7 @@
 {
 	"files.exclude": {
-		"/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/.vscode": true,
-		"/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Content": true,
-		"/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Intermediate": true
+		"/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/.vscode": true,
+		"/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Content": true,
+		"/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Intermediate": true
 	}
 }

@@ -9,7 +9,7 @@
 				"FPSGame",
 				"Mac",
 				"Debug",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -26,7 +26,7 @@
 				"FPSGame",
 				"Mac",
 				"Debug",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -46,7 +46,7 @@
 				"FPSGame",
 				"Mac",
 				"Debug",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -64,7 +64,7 @@
 				"FPSGame",
 				"Mac",
 				"DebugGame",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -81,7 +81,7 @@
 				"FPSGame",
 				"Mac",
 				"DebugGame",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -101,7 +101,7 @@
 				"FPSGame",
 				"Mac",
 				"DebugGame",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -119,7 +119,7 @@
 				"FPSGame",
 				"Mac",
 				"Development",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -136,7 +136,7 @@
 				"FPSGame",
 				"Mac",
 				"Development",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -156,7 +156,7 @@
 				"FPSGame",
 				"Mac",
 				"Development",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -174,7 +174,7 @@
 				"FPSGame",
 				"Mac",
 				"Shipping",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -191,7 +191,7 @@
 				"FPSGame",
 				"Mac",
 				"Shipping",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -211,7 +211,7 @@
 				"FPSGame",
 				"Mac",
 				"Shipping",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -229,7 +229,7 @@
 				"FPSGame",
 				"Mac",
 				"Test",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -246,7 +246,7 @@
 				"FPSGame",
 				"Mac",
 				"Test",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -266,7 +266,7 @@
 				"FPSGame",
 				"Mac",
 				"Test",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -284,7 +284,7 @@
 				"FPSGame",
 				"IOS",
 				"Debug",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -301,7 +301,7 @@
 				"FPSGame",
 				"IOS",
 				"Debug",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -321,7 +321,7 @@
 				"FPSGame",
 				"IOS",
 				"Debug",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -339,7 +339,7 @@
 				"FPSGame",
 				"IOS",
 				"DebugGame",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -356,7 +356,7 @@
 				"FPSGame",
 				"IOS",
 				"DebugGame",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -376,7 +376,7 @@
 				"FPSGame",
 				"IOS",
 				"DebugGame",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -394,7 +394,7 @@
 				"FPSGame",
 				"IOS",
 				"Development",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -411,7 +411,7 @@
 				"FPSGame",
 				"IOS",
 				"Development",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -431,7 +431,7 @@
 				"FPSGame",
 				"IOS",
 				"Development",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -449,7 +449,7 @@
 				"FPSGame",
 				"IOS",
 				"Shipping",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -466,7 +466,7 @@
 				"FPSGame",
 				"IOS",
 				"Shipping",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -486,7 +486,7 @@
 				"FPSGame",
 				"IOS",
 				"Shipping",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -504,7 +504,7 @@
 				"FPSGame",
 				"IOS",
 				"Test",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -521,7 +521,7 @@
 				"FPSGame",
 				"IOS",
 				"Test",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -541,7 +541,7 @@
 				"FPSGame",
 				"IOS",
 				"Test",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -559,7 +559,7 @@
 				"FPSGame",
 				"HTML5",
 				"Debug",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -576,7 +576,7 @@
 				"FPSGame",
 				"HTML5",
 				"Debug",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -596,7 +596,7 @@
 				"FPSGame",
 				"HTML5",
 				"Debug",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -614,7 +614,7 @@
 				"FPSGame",
 				"HTML5",
 				"DebugGame",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -631,7 +631,7 @@
 				"FPSGame",
 				"HTML5",
 				"DebugGame",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -651,7 +651,7 @@
 				"FPSGame",
 				"HTML5",
 				"DebugGame",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -669,7 +669,7 @@
 				"FPSGame",
 				"HTML5",
 				"Development",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -686,7 +686,7 @@
 				"FPSGame",
 				"HTML5",
 				"Development",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -706,7 +706,7 @@
 				"FPSGame",
 				"HTML5",
 				"Development",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -724,7 +724,7 @@
 				"FPSGame",
 				"HTML5",
 				"Shipping",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -741,7 +741,7 @@
 				"FPSGame",
 				"HTML5",
 				"Shipping",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -761,7 +761,7 @@
 				"FPSGame",
 				"HTML5",
 				"Shipping",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -779,7 +779,7 @@
 				"FPSGame",
 				"HTML5",
 				"Test",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -796,7 +796,7 @@
 				"FPSGame",
 				"HTML5",
 				"Test",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -816,7 +816,7 @@
 				"FPSGame",
 				"HTML5",
 				"Test",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -834,7 +834,7 @@
 				"FPSGameEditor",
 				"Mac",
 				"Debug",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -851,7 +851,7 @@
 				"FPSGameEditor",
 				"Mac",
 				"Debug",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -871,7 +871,7 @@
 				"FPSGameEditor",
 				"Mac",
 				"Debug",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -889,7 +889,7 @@
 				"FPSGameEditor",
 				"Mac",
 				"DebugGame",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -906,7 +906,7 @@
 				"FPSGameEditor",
 				"Mac",
 				"DebugGame",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -926,7 +926,7 @@
 				"FPSGameEditor",
 				"Mac",
 				"DebugGame",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],
@@ -944,7 +944,7 @@
 				"FPSGameEditor",
 				"Mac",
 				"Development",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -961,7 +961,7 @@
 				"FPSGameEditor",
 				"Mac",
 				"Development",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -981,7 +981,7 @@
 				"FPSGameEditor",
 				"Mac",
 				"Development",
-				"'/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
+				"'/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject'",
 				"-waitmutex",
 				"-clean"
 			],

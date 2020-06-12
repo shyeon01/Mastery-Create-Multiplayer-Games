@@ -5,7 +5,7 @@
 			"name": "FPSGame (Debug)",
 			"request": "launch",
 			"preLaunchTask": "FPSGame Mac Debug Build",
-			"program": "/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Binaries/Mac/FPSGame-Mac-Debug.app/Contents/MacOS/FPSGame-Mac-Debug",
+			"program": "/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Binaries/Mac/FPSGame-Mac-Debug.app/Contents/MacOS/FPSGame-Mac-Debug",
 			"args": [
 			],
 			"cwd": "/Users/Shared/Epic Games/UE_4.19",
@@ -15,7 +15,7 @@
 			"name": "FPSGame (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "FPSGame Mac DebugGame Build",
-			"program": "/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Binaries/Mac/FPSGame-Mac-DebugGame.app/Contents/MacOS/FPSGame-Mac-DebugGame",
+			"program": "/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Binaries/Mac/FPSGame-Mac-DebugGame.app/Contents/MacOS/FPSGame-Mac-DebugGame",
 			"args": [
 			],
 			"cwd": "/Users/Shared/Epic Games/UE_4.19",
@@ -25,7 +25,7 @@
 			"name": "FPSGame (Development)",
 			"request": "launch",
 			"preLaunchTask": "FPSGame Mac Development Build",
-			"program": "/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Binaries/Mac/FPSGame.app/Contents/MacOS/FPSGame",
+			"program": "/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Binaries/Mac/FPSGame.app/Contents/MacOS/FPSGame",
 			"args": [
 			],
 			"cwd": "/Users/Shared/Epic Games/UE_4.19",
@@ -35,7 +35,7 @@
 			"name": "FPSGame (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "FPSGame Mac Shipping Build",
-			"program": "/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Binaries/Mac/FPSGame-Mac-Shipping.app/Contents/MacOS/FPSGame-Mac-Shipping",
+			"program": "/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Binaries/Mac/FPSGame-Mac-Shipping.app/Contents/MacOS/FPSGame-Mac-Shipping",
 			"args": [
 			],
 			"cwd": "/Users/Shared/Epic Games/UE_4.19",
@@ -45,7 +45,7 @@
 			"name": "FPSGame (Test)",
 			"request": "launch",
 			"preLaunchTask": "FPSGame Mac Test Build",
-			"program": "/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Binaries/Mac/FPSGame-Mac-Test.app/Contents/MacOS/FPSGame-Mac-Test",
+			"program": "/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/Binaries/Mac/FPSGame-Mac-Test.app/Contents/MacOS/FPSGame-Mac-Test",
 			"args": [
 			],
 			"cwd": "/Users/Shared/Epic Games/UE_4.19",
@@ -57,7 +57,7 @@
 			"preLaunchTask": "FPSGameEditor Mac Debug Build",
 			"program": "/Users/Shared/Epic Games/UE_4.19/Engine/Binaries/Mac/UE4Editor-Mac-Debug.app/Contents/MacOS/UE4Editor-Mac-Debug",
 			"args": [
-				"/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject",
+				"/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject",
 				"-debug"
 			],
 			"cwd": "/Users/Shared/Epic Games/UE_4.19",
@@ -69,7 +69,7 @@
 			"preLaunchTask": "FPSGameEditor Mac DebugGame Build",
 			"program": "/Users/Shared/Epic Games/UE_4.19/Engine/Binaries/Mac/UE4Editor.app/Contents/MacOS/UE4Editor",
 			"args": [
-				"/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject",
+				"/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject",
 				"-debug"
 			],
 			"cwd": "/Users/Shared/Epic Games/UE_4.19",
@@ -81,7 +81,7 @@
 			"preLaunchTask": "FPSGameEditor Mac Development Build",
 			"program": "/Users/Shared/Epic Games/UE_4.19/Engine/Binaries/Mac/UE4Editor.app/Contents/MacOS/UE4Editor",
 			"args": [
-				"/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject"
+				"/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject"
 			],
 			"cwd": "/Users/Shared/Epic Games/UE_4.19",
 			"type": "lldb"
@@ -95,7 +95,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=\"/Users/seokheeyeon/Documents/Repos/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject\"",
+				"-project=\"/Users/seokheeyeon/Documents/GitHub/Mastery-Create-Multiplayer-Games/StealthGame 4.19/FPSGame.uproject\"",
 				"-game",
 				"-engine"
 			],
